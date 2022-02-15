@@ -15,7 +15,7 @@ namespace Races_libs
         {
 
             Set_race_name("Ботан");                  // Устанавливаем текущее показатель атрибута 
-            Set_race_code((int)Race_enumerator.enum_Races._Botan);                       // Устанавливаем идентификатор расы
+            Set_race_code((int)Race_manager.enum_Races._Botan);                       // Устанавливаем идентификатор расы
             Set_img_path(@"D:\STAR WARS Saga\Character_creation\Races_Libs\Races_lib\SW_Races\Pictures\Botan.jpg");                       // Устанавливаем путь к картинке расы
 
         }

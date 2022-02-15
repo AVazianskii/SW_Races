@@ -14,7 +14,7 @@ namespace Races_libs
         public Wooki_race() 
         {
             Set_race_name("Вуки");               // Устанавливаем текущее показатель атрибута 
-            Set_race_code((int)Race_enumerator.enum_Races._Wooki);                       // Устанавливаем идентификатор расы
+            Set_race_code((int)Race_manager.enum_Races._Wooki);                       // Устанавливаем идентификатор расы
             Set_img_path(@"D:\STAR WARS Saga\Character_creation\Races_Libs\Races_lib\SW_Races\Pictures\Wooki.jpg");                       // Устанавливаем путь к картинке расы
             
         }

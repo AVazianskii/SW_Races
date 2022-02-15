@@ -34,8 +34,8 @@
     <Reference Include="Race_shablon_lib">
       <HintPath>..\..\Race_shablon_lib\bin\Release\Race_shablon_lib.dll</HintPath>
     </Reference>
-    <Reference Include="SW_Race_enumerator_lib">
-      <HintPath>..\..\SW_Race_enumerator_lib\bin\Release\SW_Race_enumerator_lib.dll</HintPath>
+    <Reference Include="SW_Race_manager">
+      <HintPath>..\..\SW_Race_manager\bin\Release\SW_Race_manager.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
